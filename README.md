@@ -10,7 +10,7 @@
 
 - 🔢 [Calculadora Simples](https://katelyndev.github.io/simple---calculator/)
 - 🏎 [Jogo de Corrida de Emojis](https://katelyndev.github.io/corrida-emojis/)
-- 🎮 [Jogo da Adivinhação](link-do-repositorio)
+- 🎮 [Jogo da Adivinhação](https://github.com/katelyndev/jogo-adivinhacao-python-)
 
 ---
 
