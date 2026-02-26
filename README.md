@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou Katelyn Ribeiro 
 
-<!--
-**katelyndev/katelyndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software - 1º semestre  
+💻 Focada em desenvolvimento e interessada em Inteligência Artificial  
+📚 Em constante aprendizado e construção de base técnica  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+- 🔢 [Calculadora Simples](link-do-repositorio)
+- 🏎 [Jogo de Corrida de Emojis](link-do-repositorio)
+- 🎮 [Jogo da Adivinhação](link-do-repositorio)
+
+---
+
+## 🛠 Tecnologias em aprendizado
+
+- Python
+- Lógica de Programação
+- Git e GitHub
+
+---
+
+✨ Construindo minha jornada na tecnologia.
