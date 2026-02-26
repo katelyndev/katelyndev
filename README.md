@@ -8,7 +8,7 @@
 
 ## 🚀 Projetos
 
-- 🔢 [Calculadora Simples](link-do-repositorio)
+- 🔢 [Calculadora Simples](https://katelyndev.github.io/simple---calculator/)
 - 🏎 [Jogo de Corrida de Emojis](link-do-repositorio)
 - 🎮 [Jogo da Adivinhação](link-do-repositorio)
 
