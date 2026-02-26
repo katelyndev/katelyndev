@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Katelyn Ribeiro 
 
 🎓 Estudante de Engenharia de Software - 1º semestre  
-💻 Focada em desenvolvimento e interessada em Inteligência Artificial  
+💻 Focada em desenvolvimento e interessada em projetos práticos   
 📚 Em constante aprendizado e construção de base técnica  
 
 ---
