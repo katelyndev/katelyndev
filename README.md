@@ -17,7 +17,7 @@
 
 ## 🛠 Tecnologias em aprendizado
 
-- Python
+- HTML CSS JavaScript 
 - Lógica de Programação
 - Git e GitHub
 
