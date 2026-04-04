@@ -11,7 +11,7 @@
 - 🔢 [Calculadora Simples](https://katelyndev.github.io/simple---calculator/)
 - 🏎 [Jogo de Corrida de Emojis](https://katelyndev.github.io/corrida-emojis/)
 - 🎮 [Jogo da Adivinhação](https://github.com/katelyndev/jogo-adivinhacao-python-)
-- 🌐 [Site-copia-cola] 
+- 🌐 [Site-copia-cola](https://katelyndev.github.io/site-clone-html-css/)
 
 ---
 
