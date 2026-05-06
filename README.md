@@ -17,7 +17,7 @@
 
 ## 🛠 Tecnologias em aprendizado
 
-- HTML CSS JavaScript 
+- HTML CSS JavaScript PHP
 - Lógica de Programação
 - Git e GitHub
 
